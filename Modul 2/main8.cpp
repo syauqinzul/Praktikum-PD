@@ -43,7 +43,7 @@ int main() {
     cout << "\n4. PERBANDINGAN DALAM EKSPRESI:" << endl;
     int x = 5, y = 5;
     int result1, result2;
-    
+
     result1 = --x * 2;  // Pre-decrement
     result2 = y-- * 2;  // Post-decrement
     
